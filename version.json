@@ -1,0 +1,6 @@
+{
+    "version": "4.7.0",
+    "download_url": "https://example.com/TechStation_Gaming_v4.7.0.exe",
+    "release_notes": "- ✨ Added auto-update system with Check Updates feature\n- 🔧 Fixed Settings view overlap issue\n- 🎯 Improved tier unlock restrictions\n- 🎮 Enhanced game catalog caching",
+    "mandatory": false
+}
