@@ -1,9 +1,10 @@
 {
-    "version": "1.0.0",
+    "version": "1.2.0",
     "download_url": "https://drive.google.com/file/d/11SQxIVDqj1_sxoTfeyKEdPAgDf2wl4ZU/view?usp=sharing",
     "release_notes": "- ✨ Added auto-update system with Check Updates feature\n- 🔧 Fixed Settings view overlap issue\n- 🎯 Improved tier unlock restrictions\n- 🎮 Enhanced game catalog caching",
     "mandatory": false
 }
+
 
 
 
