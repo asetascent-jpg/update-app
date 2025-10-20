@@ -1,9 +1,10 @@
 {
     "version": "1.0.2",
     "download_url": "https://github.com/asetascent-jpg/update-app/releases/download/Update/TechStation_Gaming_Setup_v1.0.2.exe",
-    "release_notes": "- ✨ Added auto-update system with Check Updates feature\n- 🔧 Fixed Settings view overlap issue\n- 🎯 Improved tier unlock restrictions\n- 🎮 Enhanced game catalog caching",
+    "release_notes": "- ✨ UI enhance katalog ",  #\n- 🔧 Fixed Settings view overlap issue\n- 🎯 Improved tier unlock restrictions\n- 🎮 Enhanced game catalog
     "mandatory": false
 }
+
 
 
 
