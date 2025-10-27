@@ -1,8 +1,9 @@
   {
-      "version": "1.0.3",
+      "version": "2.0.0",
       "download_url": "url",
       "release_notes": "✨ New: Enhanced game catalog with Steam CDN optimization (10x faster loading)\n🔧 Fixed: Auto-update system, Eksklusif Game section\n🎯 Improved: Image loading speed, hash-based cache detection",
       "mandatory": false
   }
+
 
 
