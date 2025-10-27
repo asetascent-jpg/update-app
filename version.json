@@ -1,7 +1,8 @@
   {
       "version": "1.0.3",
-      "download_url": "https://github.com/asetascent-jpg/update-app/releases/download/1.0.3/TechStation_Gaming_Setup_v1.0.3.exe",
+      "download_url": "url",
       "release_notes": "✨ New: Enhanced game catalog with Steam CDN optimization (10x faster loading)\n🔧 Fixed: Auto-update system, Eksklusif Game section\n🎯 Improved: Image loading speed, hash-based cache detection",
       "mandatory": false
   }
+
 
