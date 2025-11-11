@@ -1,9 +1,10 @@
   {
-      "version": "2.0.0",
-      "download_url": "url",
-      "release_notes": "✨ New: Enhanced game catalog with Steam CDN optimization (10x faster loading)\n🔧 Fixed: Auto-update system, Eksklusif Game section\n🎯 Improved: Image loading speed, hash-based cache detection",
+      "version": "2.1.0",
+      "download_url": "https://github.com/asetascent-jpg/update-app/releases/download/Update/Techstation-Game-Setup-2.1.0.exe",
+      "release_notes": "✨ New: Download Single Player Game, Download Manager, New UI\n🔧 Fixed: Performance update\n🎯 Improved: Image loading speed, hash-based cache detection",
       "mandatory": false
   }
+
 
 
 
