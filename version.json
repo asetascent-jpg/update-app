@@ -1,12 +1,10 @@
   {
-      "version": "2.1.1",
-      "download_url": "https://github.com/asetascent-jpg/update-app/releases/download/Update/Techstation-Game-Setup-2.1.1.exe",
-      "release_notes": "✨\n🔧 Fixed: Premium Download File\n",
-      "mandatory": false
+    "version": "2.1.1",
+    "releaseDate": "2025-01-15",
+    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/Update/Techstation-Game-Setup-2.1.1.exe",
+    "changelog": [
+      "Fixed: Premium Download File menggunakan link Pixeldrain baru",
+      "Updated: Versi aplikasi ke 2.1.1"
+    ],
+    "mandatory": false
   }
-
-
-
-
-
-
