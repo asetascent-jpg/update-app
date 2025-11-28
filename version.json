@@ -1,13 +1,14 @@
   {
-    "version": "2.1.4",
-    "releaseDate": "2025-11-24",
-    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/Update/Techstation-Game-Setup-2.1.4.exe",
+    "version": "2.1.5",
+    "releaseDate": "2025-11-28",
+    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/Update/Techstation-Game-Setup-2.1.5.exe",
     "changelog": [
-      "Fixed: auto fix game",
-      "Updated: Versi aplikasi ke 2.1.4"
+      "New: Single player categories",
+      "Updated: Versi aplikasi ke 2.1.5"
     ],
     "mandatory": false
   }
+
 
 
 
