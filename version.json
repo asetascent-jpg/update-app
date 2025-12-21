@@ -1,13 +1,14 @@
   {
-    "version": "2.2.1",
+    "version": "2.2.2",
     "releaseDate": "2025-12-08",
-    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/Update/Techstation-Game-Setup-2.2.1.exe",
+    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/Update/Techstation-Game-Setup-2.2.2.exe",
     "changelog": [
-      "Fix: Feature (Tutorial, Backupfiles, Auto Update Game",
-      "Updated: Versi aplikasi ke 2.2.1"
+      "Fix: Feature Bypass Limitation",
+      "Updated: Versi aplikasi ke 2.2.2"
     ],
-    "mandatory": false
+    "mandatory": true
   }
+
 
 
 
