@@ -1,13 +1,14 @@
   {
-    "version": "3.0.0",
-    "releaseDate": "2025-12-22",
-    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/Update/Techstation-Game-Setup-3.0.0.exe",
+    "version": "3.1.0",
+    "releaseDate": "2025-12-23",
+    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/Update/Techstation-Game-Setup-3.1.0.exe",
     "changelog": [
       "Fix: Steam Update Issue",
-      "Updated: Versi aplikasi ke 3.0.0"
+      "Updated: Versi aplikasi ke 3.1.0"
     ],
     "mandatory": true
   }
+
 
 
 
