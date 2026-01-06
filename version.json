@@ -1,13 +1,14 @@
   {
-    "version": "3.2.0",
-    "releaseDate": "2025-12-23",
-    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/Update/Techstation-Game-Setup-3.2.0.exe",
+    "version": "3.3.0",
+    "releaseDate": "2026-01-6",
+    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/Update/Techstation-Game-Setup-3.3.0.exe",
     "changelog": [
-      "Update aja, banyak berubah",
-      "Updated: Versi aplikasi ke 3.2.0"
+      "Update aja, biar gak putus koneksi",
+      "Updated: Versi aplikasi ke 3.3.0"
     ],
     "mandatory": true
   }
+
 
 
 
