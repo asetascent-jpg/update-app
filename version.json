@@ -1,14 +1,15 @@
   {
-    "version": "4.4.0",
+    "version": "4.4.1",
     "releaseDate": "2026-01-30",
-    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/Lastupdt/Techstation-Game-Setup-4.4.0.exe",
+    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/New/Techstation-Game-Setup-4.4.1.exe",
     "changelog": [
       "New Tutorial Guide",
       "DLC Unclocked for All Games",
-      "Updated: Versi aplikasi ke 4.4.0"
+      "Updated: Versi aplikasi ke 4.4.1"
     ],
     "mandatory": true
   }
+
 
 
 
