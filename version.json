@@ -1,14 +1,15 @@
   {
-    "version": "4.4.1",
-    "releaseDate": "2026-01-30",
-    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/New/Techstation-Game-Setup-4.4.1.exe",
+    "version": "4.4.2",
+    "releaseDate": "2026-02-04",
+    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/NewUpdate/Techstation-Game-Setup-4.4.2.exe",
     "changelog": [
       "New Tutorial Guide",
-      "DLC Unclocked for All Games",
-      "Updated: Versi aplikasi ke 4.4.1"
+      "New Protecton Game",
+      "Updated: Versi aplikasi ke 4.4.2"
     ],
     "mandatory": true
   }
+
 
 
 
