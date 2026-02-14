@@ -1,14 +1,15 @@
   {
-    "version": "4.4.2",
+    "version": "4.4.3",
     "releaseDate": "2026-02-04",
-    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/NewUpdate/Techstation-Game-Setup-4.4.2.exe",
+    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/NewUpdate/Techstation-Game-Setup-4.4.3.exe",
     "changelog": [
-      "New Tutorial Guide",
-      "New Protecton Game",
-      "Updated: Versi aplikasi ke 4.4.2"
+      "Change Password Feature",
+      "New Protecton App",
+      "Updated: Versi aplikasi ke 4.4.3"
     ],
     "mandatory": true
   }
+
 
 
 
