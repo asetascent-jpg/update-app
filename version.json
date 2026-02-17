@@ -1,14 +1,15 @@
   {
-    "version": "4.4.5",
-    "releaseDate": "2026-02-16",
-    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/NewUpdate/Techstation-Game-Setup-4.4.5.exe",
+    "version": "4.4.6",
+    "releaseDate": "2026-02-17",
+    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/New/Techstation-Game-Setup-4.4.6.exe",
     "changelog": [
-      "Fix Bug Change Password Feature",
+      "Fix Bug Signup",
       "Fix Bug Code",
-      "Updated: Versi aplikasi ke 4.4.5"
+      "Updated: Versi aplikasi ke 4.4.6"
     ],
     "mandatory": true
   }
+
 
 
 
