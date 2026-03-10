@@ -1,13 +1,14 @@
   {
-    "version": "4.4.9",
-    "releaseDate": "2026-03-09",
-    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/newup/Techstation-Game-Setup-4.4.9.exe",
+    "version": "4.5.0",
+    "releaseDate": "2026-03-11",
+    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/Update/Techstation-Game-Setup-4.5.0.exe",
     "changelog": [
-      "New : Automatic Denuvo Activation",
-      "Updated: Versi aplikasi ke 4.4.9"
+      "fix purchased (temporary)",
+      "Updated: Versi aplikasi ke 4.5.0"
     ],
     "mandatory": true
   }
+
 
 
 
