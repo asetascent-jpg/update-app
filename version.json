@@ -1,10 +1,10 @@
   {
-    "version": "4.5.7",
-    "releaseDate": "2026-04-11",
-    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/Update/Techstation-Game-Setup-4.5.7.exe",
+    "version": "4.6.1",
+    "releaseDate": "2026-04-28",
+    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/Update/Techstation-Game-Setup-4.6.1.exe",
     "changelog": [
       "fix steam download",
-      "Updated: Versi aplikasi ke 4.5.7"
+      "Updated: Versi aplikasi ke 4.6.1"
     ],
     "mandatory": true
   }
