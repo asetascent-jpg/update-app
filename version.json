@@ -1,47 +1,14 @@
-  {
-    "version": "5.0.0",
-    "releaseDate": "2026-06-04",
-    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/newup/Techstation-Game-Setup-5.0.0.exe",
-    "changelog": [
-      "fix deluxe feature n advance mode",
-      "Updated: Versi aplikasi ke 5.0.0"
-    ],
-    "mandatory": true
-  }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{
+  "version": "5.1.0",
+  "releaseDate": "2026-06-08",
+  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.1.0/Techstation-Game-Setup-5.1.0.exe",
+  "changelog": [
+    "Judul game tampil penuh (tidak terpotong)",
+    "Plugin game anti hilang sendiri (auto-pulih)",
+    "Paket plugin lebih lengkap (DLC) & selalu terbaru",
+    "Game Details + HowLongToBeat + DLC Unlocker",
+    "Profil real-time, panduan tiap menu, installer baru",
+    "Updated: versi aplikasi ke 5.1.0"
+  ],
+  "mandatory": true
+}
