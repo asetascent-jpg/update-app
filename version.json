@@ -1,7 +1,7 @@
 {
   "version": "5.2.1",
   "releaseDate": "2026-06-11",
-  "downloadUrl": "https://fix.techstation.web.id/releases/Techstation-App-Setup-5.2.1.exe",
+  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.2.1/Techstation-App-Setup-5.2.1.exe",
   "changelog": [
     "Perbaikan gambar cover lemot/reload tiap buka app - sekarang load instan",
     "Download update jauh lebih cepat (pindah ke server R2)",
