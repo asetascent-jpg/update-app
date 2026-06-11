@@ -1,16 +1,16 @@
 {
-  "version": "5.1.2",
-  "releaseDate": "2026-06-09",
-  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.1.2/Techstation-Game-Setup-5.1.2.exe",
+  "version": "5.2.0",
+  "releaseDate": "2026-06-11",
+  "downloadUrl": "https://cdn.techstation.web.id/bypass/Techstation-App-Setup-5.2.0.exe",
   "changelog": [
-    "Fix game sering crash setelah Play & mode Basic ngebug (plugin balik stabil)",
-    "Perbaikan deteksi device - stop tuduhan 'pindah device' palsu (HWID)",
-    "Lupa Password sendiri lewat email (tanpa admin)",
-    "Tombol Download Semua Game sekaligus di Your Game",
-    "Tombol Bersihkan Plugin System (Steam kembali vanilla)",
-    "Tampilan detail game responsif (gambar/video tak keluar batas)",
-    "Login otomatis 'Ingat saya' + sesi lebih lama",
-    "Updated: versi aplikasi ke 5.1.2"
+    "App sekarang bernama Techstation App",
+    "File Fixed lebih lancar - atasi gagal download (limit) di game tertentu",
+    "OTP & tampilan disamakan ke tema graphite",
+    "Cloud System dirampingkan biar lebih simpel",
+    "Game Unlocker: rekomendasi game offline ganti tiap minggu",
+    "Foto profil bisa di-crop sendiri",
+    "Perapihan UI/UX & perbaikan kecil",
+    "Updated: versi aplikasi ke 5.2.0"
   ],
   "minVersion": "1.0.0",
   "mandatory": true
