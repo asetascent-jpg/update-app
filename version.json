@@ -1,16 +1,14 @@
 {
-  "version": "5.2.0",
+  "version": "5.2.1",
   "releaseDate": "2026-06-11",
-  "downloadUrl": "https://fix.techstation.web.id/releases/Techstation-App-Setup-5.2.0.exe",
+  "downloadUrl": "https://fix.techstation.web.id/releases/Techstation-App-Setup-5.2.1.exe",
   "changelog": [
-    "App sekarang bernama Techstation App",
-    "File Fixed lebih lancar - atasi gagal download (limit) di game tertentu",
-    "OTP & tampilan disamakan ke tema graphite",
-    "Cloud System dirampingkan biar lebih simpel",
-    "Game Unlocker: rekomendasi game offline ganti tiap minggu",
-    "Foto profil bisa di-crop sendiri",
+    "Perbaikan gambar cover lemot/reload tiap buka app - sekarang load instan",
+    "Download update jauh lebih cepat (pindah ke server R2)",
+    "App bernama Techstation App",
+    "File Fixed lebih lancar (atasi gagal download di game tertentu)",
     "Perapihan UI/UX & perbaikan kecil",
-    "Updated: versi aplikasi ke 5.2.0"
+    "Updated: versi aplikasi ke 5.2.1"
   ],
   "minVersion": "1.0.0",
   "mandatory": true
