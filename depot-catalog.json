@@ -1,0 +1,37 @@
+[
+  {
+    "appId": "3764200",
+    "name": "Resident Evil Requiem",
+    "build": "22277314",
+    "date": "2026-03-13",
+    "depots": [
+      { "appId": "3764200", "depotId": "3764201", "manifestId": "9166256367562763038" },
+      { "appId": "3764200", "depotId": "3764203", "manifestId": "651754783565368360" },
+      { "appId": "3764200", "depotId": "3990820", "manifestId": "509708311968316285" },
+      { "appId": "3764200", "depotId": "3990800", "manifestId": "9181787779883827112" },
+      { "appId": "570", "depotId": "228989", "manifestId": "3514306556860204959" }
+    ]
+  },
+  {
+    "appId": "3768760",
+    "name": "007 First Light",
+    "build": "23388781",
+    "date": "2026-05-26",
+    "depots": [
+      { "appId": "3768760", "depotId": "3768761", "manifestId": "7322178669849310269" },
+      { "appId": "570", "depotId": "228989", "manifestId": "3514306556860204959" }
+    ]
+  },
+  {
+    "appId": "3230400",
+    "name": "Madden NFL 26",
+    "build": "21196045",
+    "date": "2026-01-07",
+    "depots": [
+      { "appId": "3230400", "depotId": "3230401", "manifestId": "8127539552153096925" },
+      { "appId": "3230400", "depotId": "3230402", "manifestId": "6433021019026790051" },
+      { "appId": "1172380", "depotId": "3340991", "manifestId": "8830543676991346476" },
+      { "appId": "1238810", "depotId": "3893181", "manifestId": "4252712144093811296" }
+    ]
+  }
+]
