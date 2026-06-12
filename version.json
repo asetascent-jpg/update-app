@@ -1,14 +1,16 @@
 {
-  "version": "5.2.1",
-  "releaseDate": "2026-06-11",
-  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.2.1/Techstation-App-Setup-5.2.1.exe",
+  "version": "5.2.2",
+  "releaseDate": "2026-06-13",
+  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.2.2/Techstation-App-Setup-5.2.2.exe",
+  "sha256": "65c629cd9118875fc88232c5064e6f2462060720e9e5e703c5a188d1e2297305",
+  "size": 119537608,
   "changelog": [
-    "Perbaikan gambar cover lemot/reload tiap buka app - sekarang load instan",
-    "Download update jauh lebih cepat (pindah ke server R2)",
-    "App bernama Techstation App",
-    "File Fixed lebih lancar (atasi gagal download di game tertentu)",
-    "Perapihan UI/UX & perbaikan kecil",
-    "Updated: versi aplikasi ke 5.2.1"
+    "Gambar cover instan & tanpa load ulang tiap buka",
+    "Update Plugin System otomatis tanpa aktifkan ulang + tombol khususnya",
+    "DepotDownloader: katalog game 1-klik + download manual multi-manifest",
+    ".NET 9 auto-install otomatis untuk DepotDownloader",
+    "Perbaikan window tak muncul padahal tray aktif",
+    "Aplikasi kini bernama Techstation App"
   ],
   "minVersion": "1.0.0",
   "mandatory": true
