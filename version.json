@@ -1,16 +1,16 @@
 {
-  "version": "5.2.2",
-  "releaseDate": "2026-06-13",
-  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.2.2/Techstation-App-Setup-5.2.2.exe",
-  "sha256": "65c629cd9118875fc88232c5064e6f2462060720e9e5e703c5a188d1e2297305",
-  "size": 119537608,
+  "version": "5.3.0",
+  "releaseDate": "2026-06-20",
+  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.3.0/Techstation-App-Setup-5.3.0.exe",
+  "sha256": "bab38f18ae4a249fb5b94c24d2c75a9d00fcd2acba79a01b6639cdbbb63fe337",
+  "size": 120862078,
   "changelog": [
-    "Gambar cover instan & tanpa load ulang tiap buka",
-    "Update Plugin System otomatis tanpa aktifkan ulang + tombol khususnya",
-    "DepotDownloader: katalog game 1-klik + download manual multi-manifest",
-    ".NET 9 auto-install otomatis untuk DepotDownloader",
-    "Perbaikan window tak muncul padahal tray aktif",
-    "Aplikasi kini bernama Techstation App"
+    "Game DepotDownloader tampil native di Steam (Installed + Play) + anti-update otomatis",
+    "All-in-one File Fixed: pasang otomatis saat Tampilkan ke Steam (bar progress + tanda sudah di-fix)",
+    "App ingat game yang sudah di-download; deteksi patch game lalu re-sync 1-klik",
+    "Steamless 1-klik: tutup game & Steam otomatis lalu buka lagi (lepas SteamStub DRM)",
+    "Tombol Restart Steam di top-navbar; navigasi atas jadi default",
+    "Hero home ganti tiap hari + berbagai perapian UI"
   ],
   "minVersion": "1.0.0",
   "mandatory": true
