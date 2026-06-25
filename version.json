@@ -1,14 +1,16 @@
 {
-  "version": "5.3.1",
-  "releaseDate": "2026-06-25",
-  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.3.1/Techstation-App-Setup-5.3.1.exe",
-  "sha256": "747a2531ff8ede29d482f6f06eb7af8a5a0909f9fa1d91e6bfa06e0ab7d43eea",
-  "size": 120862670,
+  "version": "5.3.2",
+  "releaseDate": "2026-06-26",
+  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.3.2/Techstation-App-Setup-5.3.2.exe",
+  "sha256": "f7a839aa3d1dad4460dca57010dc5f2eade5bc498ccfea1eab038cf8fda1c194",
+  "size": 120872977,
   "changelog": [
-    "Titik status server Plugin System di topbar (hijau = server inti normal, merah = ada gangguan)",
-    "Tombol Update Plugin System + progress kini juga di mode navigasi atas",
-    "Versi Plugin System + tombol Cek Update di Pengaturan",
-    "Deteksi update Plugin System lebih pintar (baca kondisi asli di Steam, anti salah-update)"
+    "Mode Lanjutan Plugin System sekarang bisa di-update sendiri dari Pengaturan",
+    "Anti salah-deteksi antivirus saat mengaktifkan Plugin System (otomatis)",
+    "Update aplikasi lebih mulus: terbuka sendiri sesudah update, tanpa jendela hitam",
+    "File Fixed otomatis mendeteksi folder game + memasang tepat sasaran (file asli dicadangkan, bisa di-undo)",
+    "Perbaikan DRM lebih ampuh (opsi tambahan + deteksi lebih lengkap)",
+    "Tab toko baru di menu Toko"
   ],
   "minVersion": "1.0.0",
   "mandatory": true
