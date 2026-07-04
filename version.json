@@ -1,16 +1,16 @@
 {
-  "version": "5.3.2",
-  "releaseDate": "2026-06-26",
-  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.3.2/Techstation-App-Setup-5.3.2.exe",
-  "sha256": "f7a839aa3d1dad4460dca57010dc5f2eade5bc498ccfea1eab038cf8fda1c194",
-  "size": 120872977,
+  "version": "5.4.0",
+  "releaseDate": "2026-07-04",
+  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.4.0/Techstation-App-Setup-5.4.0.exe",
+  "sha256": "b64d383416e3d44929ca9a6c9ced20ec9f48ddac4bf06d860319949c80fb099a",
+  "size": 144809472,
   "changelog": [
-    "Mode Lanjutan Plugin System sekarang bisa di-update sendiri dari Pengaturan",
-    "Anti salah-deteksi antivirus saat mengaktifkan Plugin System (otomatis)",
-    "Update aplikasi lebih mulus: terbuka sendiri sesudah update, tanpa jendela hitam",
-    "File Fixed otomatis mendeteksi folder game + memasang tepat sasaran (file asli dicadangkan, bisa di-undo)",
-    "Perbaikan DRM lebih ampuh (opsi tambahan + deteksi lebih lengkap)",
-    "Tab toko baru di menu Toko"
+    "Fitur baru Remote Support: minta bantuan admin remote langsung ke PC. Klik Install sekali, lalu Minta Bantuan",
+    "Cukup klik Terima saat admin masuk, tanpa password sama sekali",
+    "Remote bisa dimatikan kapan saja lewat tombol Nonaktifkan",
+    "Tampilan: sidebar jadi navigasi utama",
+    "Menu MOD segera hadir",
+    "Perbaikan keamanan"
   ],
   "minVersion": "1.0.0",
   "mandatory": true
