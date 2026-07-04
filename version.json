@@ -1,16 +1,13 @@
 {
-  "version": "5.4.0",
+  "version": "5.4.1",
   "releaseDate": "2026-07-04",
-  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.4.0/Techstation-App-Setup-5.4.0.exe",
-  "sha256": "b64d383416e3d44929ca9a6c9ced20ec9f48ddac4bf06d860319949c80fb099a",
-  "size": 144809472,
+  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.4.1/Techstation-App-Setup-5.4.1.exe",
+  "sha256": "e58e54b30e0aac601226250cdba5940610fcb26ac31f1e18dd1cbd21ef5ec481",
+  "size": 144820014,
   "changelog": [
-    "Fitur baru Remote Support: minta bantuan admin remote langsung ke PC. Klik Install sekali, lalu Minta Bantuan",
-    "Cukup klik Terima saat admin masuk, tanpa password sama sekali",
-    "Remote bisa dimatikan kapan saja lewat tombol Nonaktifkan",
-    "Tampilan: sidebar jadi navigasi utama",
-    "Menu MOD segera hadir",
-    "Perbaikan keamanan"
+    "Perbaikan Remote Support: kini benar-benar lewat relay Techstation",
+    "Sebelumnya admin tidak bisa menemukan device customer saat remote",
+    "Kalau kamu sudah pasang Remote di 5.4.0, klik Install lagi untuk perbaikan otomatis"
   ],
   "minVersion": "1.0.0",
   "mandatory": true
