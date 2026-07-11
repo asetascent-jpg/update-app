@@ -1,10 +1,11 @@
 {
-  "version": "5.4.2",
-  "releaseDate": "2026-07-11",
-  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.4.2/Techstation-App-Setup-5.4.2.exe",
-  "sha256": "a5520cd1a8b57a11746924c7711b68f93d4fbd187f8ab5e72f686c17a34cac56",
-  "size": 123496197,
+  "version": "5.4.3",
+  "releaseDate": "2026-07-12",
+  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.4.3/Techstation-App-Setup-5.4.3.exe",
+  "sha256": "10fb9602aeac8eb6200f023eaac0d0cbb2d229a1d5ed0df582f3543d25bdb0aa",
+  "size": 123500943,
   "changelog": [
+    "Perbaikan deteksi game ber-DRM: game yang butuh bypass (mis. seri Call of Duty) tidak bisa lagi diklaim lewat token",
     "Menu OnlyBeez: MOD Bahasa Indonesia untuk game favoritmu, pasang 1 klik langsung dari app",
     "File Fixed lebih rapi & aman: Regular/Premium hanya menampilkan fix untuk game yang dimiliki",
     "Mode Cloud System (Lanjutan) untuk Plugin System",
