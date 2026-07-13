@@ -1,17 +1,13 @@
 {
-  "version": "5.4.3",
-  "releaseDate": "2026-07-12",
-  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.4.3/Techstation-App-Setup-5.4.3.exe",
-  "sha256": "10fb9602aeac8eb6200f023eaac0d0cbb2d229a1d5ed0df582f3543d25bdb0aa",
-  "size": 123500943,
+  "version": "5.4.4",
+  "releaseDate": "2026-07-14",
+  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.4.4/Techstation-App-Setup-5.4.4.exe",
+  "sha256": "3c4bf42c8e1ee18bb0faf308eecd489d740547ee239d8731e37be53ba38af526",
+  "size": 123499739,
   "changelog": [
-    "Perbaikan deteksi game ber-DRM: game yang butuh bypass (mis. seri Call of Duty) tidak bisa lagi diklaim lewat token",
-    "Menu OnlyBeez: MOD Bahasa Indonesia untuk game favoritmu, pasang 1 klik langsung dari app",
-    "File Fixed lebih rapi & aman: Regular/Premium hanya menampilkan fix untuk game yang dimiliki",
-    "Mode Cloud System (Lanjutan) untuk Plugin System",
-    "Fitur Remote Support dihapus",
-    "Tambahan banyak game di katalog File Fixed",
-    "Peningkatan keamanan & pembersihan aplikasi"
+    "Perbaikan penting: plugin/game di menu 'Game Kamu' tidak lagi hilang sendiri karena salah-deteksi 'pindah perangkat'",
+    "Deteksi perangkat (device ID) kini lebih stabil, jadi kamu tidak ke-logout paksa tanpa sebab",
+    "Aturan 1 akun untuk 1 perangkat tetap berlaku: kalau memang berpindah device, cukup login ulang"
   ],
   "minVersion": "1.0.0",
   "mandatory": true
