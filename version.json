@@ -1,13 +1,14 @@
 {
-  "version": "5.4.4",
-  "releaseDate": "2026-07-14",
-  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.4.4/Techstation-App-Setup-5.4.4.exe",
-  "sha256": "3c4bf42c8e1ee18bb0faf308eecd489d740547ee239d8731e37be53ba38af526",
-  "size": 123499739,
+  "version": "5.5.0",
+  "releaseDate": "2026-07-18",
+  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.5.0/Techstation-App-Setup-5.5.0.exe",
+  "sha256": "e443b0487281e28e9fbcba3c0cfd1508cd2dd1a358729ec99c06bdba2df0eb0d",
+  "size": 123505577,
   "changelog": [
-    "Perbaikan penting: plugin/game di menu 'Game Kamu' tidak lagi hilang sendiri karena salah-deteksi 'pindah perangkat'",
-    "Deteksi perangkat (device ID) kini lebih stabil, jadi kamu tidak ke-logout paksa tanpa sebab",
-    "Aturan 1 akun untuk 1 perangkat tetap berlaku: kalau memang berpindah device, cukup login ulang"
+    "Plugin System Basic pakai loader baru yang tahan update Steam: memperbaiki game yang berubah jadi tombol beli setelah Steam update",
+    "Kalau kamu masih di loader lama, buka Pengaturan lalu aktifkan Basic Mode sekali untuk pindah ke loader baru",
+    "Plugin game lebih aman: ganti mode tidak lagi bisa bikin game hilang, dan update plugin menolak data rusak dari server",
+    "Perapian aplikasi dan peningkatan stabilitas"
   ],
   "minVersion": "1.0.0",
   "mandatory": true
