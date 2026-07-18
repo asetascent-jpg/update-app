@@ -4,6 +4,8 @@
     "name": "Resident Evil Requiem",
     "build": "22277314",
     "date": "2026-03-13",
+    "sizeBytes": "84525384481",
+    "downloadBytes": "82620449744",
     "depots": [
       { "appId": "3764200", "depotId": "3764201", "manifestId": "9166256367562763038" },
       { "appId": "3764200", "depotId": "3764203", "manifestId": "651754783565368360" },
@@ -17,6 +19,8 @@
     "name": "007 First Light",
     "build": "23388781",
     "date": "2026-05-26",
+    "sizeBytes": "57204602398",
+    "downloadBytes": "53216731984",
     "depots": [
       { "appId": "3768760", "depotId": "3768761", "manifestId": "7322178669849310269" },
       { "appId": "570", "depotId": "228989", "manifestId": "3514306556860204959" }
@@ -27,6 +31,8 @@
     "name": "Madden NFL 26",
     "build": "21196045",
     "date": "2026-01-07",
+    "sizeBytes": "70204348216",
+    "downloadBytes": "63795019296",
     "depots": [
       { "appId": "3230400", "depotId": "3230401", "manifestId": "4881713258846070142" },
       { "appId": "3230400", "depotId": "3230402", "manifestId": "237619931957030602" },
@@ -39,11 +45,27 @@
     "name": "PRAGMATA",
     "build": "22357085",
     "date": "2026-04-15",
+    "sizeBytes": "36362998331",
+    "downloadBytes": "35876587216",
     "depots": [
       { "appId": "3357650", "depotId": "3357651", "manifestId": "2417499809052404547" },
       { "appId": "3357650", "depotId": "3859920", "manifestId": "4731286747379700304" },
       { "appId": "3357650", "depotId": "3859930", "manifestId": "6714427611547107917" },
       { "appId": "570", "depotId": "228989", "manifestId": "3514306556860204959" }
+    ]
+  },
+  {
+    "appId": "3159330",
+    "name": "Assassin's Creed Shadows",
+    "build": "23475575",
+    "date": "2026-06-16",
+    "sizeBytes": "179755219537",
+    "downloadBytes": "146269209072",
+    "depots": [
+      { "appId": "3159330", "depotId": "3159331", "manifestId": "4595780502794590393" },
+      { "appId": "3159330", "depotId": "3159339", "manifestId": "1250764753963549068" },
+      { "appId": "33220", "depotId": "1716751", "manifestId": "6030658222499813405" },
+      { "appId": "570", "depotId": "228989", "manifestId": "550968249685141759" }
     ]
   }
 ]
