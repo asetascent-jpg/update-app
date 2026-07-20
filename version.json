@@ -1,14 +1,14 @@
 {
-  "version": "5.5.4",
-  "releaseDate": "2026-07-20",
-  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.5.4/Techstation-App-Setup-5.5.4.exe",
-  "sha256": "a35b5a78118d4e7417cce0d182dae7bb4008a5759baa847ede0dccdbbc69ab88",
-  "size": 131242294,
+  "version": "5.5.6",
+  "releaseDate": "2026-07-21",
+  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.5.6/Techstation-App-Setup-5.5.6.exe",
+  "sha256": "762d49537d050f910612e5957843fe5b7dd70aaeae0e49a18d10eb5b8b5e4b62",
+  "size": 131235581,
   "changelog": [
-    "Perbaikan penting: saat Restart Steam, kini SEMUA proses Steam (steam.exe + steamwebhelper + steamservice) ditutup dulu sampai benar-benar mati, baru Steam dibuka lagi",
-    "Sebelumnya sebagian proses masih jalan sehingga loader tidak sempat memuat game ke Steam dan game bisa terlihat seperti harus dibeli",
-    "Restart Steam lebih andal, game langsung terbaca normal",
-    "Termasuk semua perbaikan v5.5.3: Plugin System 2 mode (Basic & Advance) + Advanced+ (cloud save)"
+    "Plugin System disederhanakan jadi 1 mode: aktifkan sekali, game langsung terbaca di Steam",
+    "Folder game (.lua) & manifest dibuat otomatis saat Plugin System diaktifkan",
+    "Loader auto-update sendiri: tahan terhadap update Steam tanpa perlu update aplikasi",
+    "Perbaikan tampilan Pengaturan: hapus tombol yang sudah tidak berfungsi"
   ],
   "minVersion": "1.0.0",
   "mandatory": true
