@@ -1,14 +1,15 @@
 {
-  "version": "5.5.1",
-  "releaseDate": "2026-07-18",
-  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.5.1/Techstation-App-Setup-5.5.1.exe",
-  "sha256": "3e31fb8bc861c2f5a3195107037f5dc8da122e00794d961f294457342ae18934",
-  "size": 123501742,
+  "version": "5.5.3",
+  "releaseDate": "2026-07-20",
+  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.5.3/Techstation-App-Setup-5.5.3.exe",
+  "sha256": "852f644dc2566ad7b2aa7e0b29b815d9153b027e0e363a12ca6b159fc57993fe",
+  "size": 131239336,
   "changelog": [
-    "Perbaikan mode Advanced+: sebelumnya mode ini tidak pernah terpasang dengan benar, kini sudah diperbaiki",
-    "Untuk kamu yang main game Denuvo lewat akun sharing lalu pindah ke akun pribadi, gunakan mode Advanced+ di Pengaturan",
-    "Mode Basic tetap pilihan terbaik untuk game biasa dan paling tahan terhadap update Steam",
-    "Perbaikan lanjutan dari update sebelumnya agar game tetap terbaca normal di Steam"
+    "Plugin System disederhanakan: kini 2 mode utama â€” Basic & Advance â€” plus Advanced+ (cloud save)",
+    "Mode Basic diperbarui agar game langsung muncul di Steam hanya dengan sekali klik Restart (sebelumnya kadang perlu restart dua kali)",
+    "Mode Advance: loader inti yang bersih untuk game biasa, tahan update Steam",
+    "File plugin (.lua) kini ditulis ke lebih banyak lokasi agar game lebih andal terbaca Steam",
+    "Perbaikan proses restart Steam agar lebih stabil"
   ],
   "minVersion": "1.0.0",
   "mandatory": true
