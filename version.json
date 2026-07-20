@@ -2,6 +2,7 @@
   "version": "5.5.6",
   "releaseDate": "2026-07-21",
   "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.5.6/Techstation-App-Setup-5.5.6.exe",
+  "webDownloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.5.6/Techstation-App-5.5.6.zip",
   "sha256": "762d49537d050f910612e5957843fe5b7dd70aaeae0e49a18d10eb5b8b5e4b62",
   "size": 131235581,
   "changelog": [
