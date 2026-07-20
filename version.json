@@ -1,15 +1,14 @@
 {
-  "version": "5.5.3",
+  "version": "5.5.4",
   "releaseDate": "2026-07-20",
-  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.5.3/Techstation-App-Setup-5.5.3.exe",
-  "sha256": "852f644dc2566ad7b2aa7e0b29b815d9153b027e0e363a12ca6b159fc57993fe",
-  "size": 131239336,
+  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.5.4/Techstation-App-Setup-5.5.4.exe",
+  "sha256": "a35b5a78118d4e7417cce0d182dae7bb4008a5759baa847ede0dccdbbc69ab88",
+  "size": 131242294,
   "changelog": [
-    "Plugin System disederhanakan: kini 2 mode utama â€” Basic & Advance â€” plus Advanced+ (cloud save)",
-    "Mode Basic diperbarui agar game langsung muncul di Steam hanya dengan sekali klik Restart (sebelumnya kadang perlu restart dua kali)",
-    "Mode Advance: loader inti yang bersih untuk game biasa, tahan update Steam",
-    "File plugin (.lua) kini ditulis ke lebih banyak lokasi agar game lebih andal terbaca Steam",
-    "Perbaikan proses restart Steam agar lebih stabil"
+    "Perbaikan penting: saat Restart Steam, kini SEMUA proses Steam (steam.exe + steamwebhelper + steamservice) ditutup dulu sampai benar-benar mati, baru Steam dibuka lagi",
+    "Sebelumnya sebagian proses masih jalan sehingga loader tidak sempat memuat game ke Steam dan game bisa terlihat seperti harus dibeli",
+    "Restart Steam lebih andal, game langsung terbaca normal",
+    "Termasuk semua perbaikan v5.5.3: Plugin System 2 mode (Basic & Advance) + Advanced+ (cloud save)"
   ],
   "minVersion": "1.0.0",
   "mandatory": true
