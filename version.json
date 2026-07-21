@@ -1,15 +1,14 @@
 {
-  "version": "5.5.6",
+  "version": "5.5.7",
   "releaseDate": "2026-07-21",
-  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.5.6/Techstation-App-Setup-5.5.6.exe",
-  "webDownloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.5.6/Techstation-App-5.5.6.zip",
-  "sha256": "762d49537d050f910612e5957843fe5b7dd70aaeae0e49a18d10eb5b8b5e4b62",
-  "size": 131235581,
+  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.5.7/Techstation-App-Setup-5.5.7.exe",
+  "webDownloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.5.7/Techstation-App-5.5.7.zip",
+  "sha256": "6d827d9db894e4ef3eda305e032efaf0dcfa0727fd419e03d4da3ce206116561",
+  "size": 131231295,
   "changelog": [
-    "Plugin System disederhanakan jadi 1 mode: aktifkan sekali, game langsung terbaca di Steam",
-    "Folder game (.lua) & manifest dibuat otomatis saat Plugin System diaktifkan",
-    "Loader auto-update sendiri: tahan terhadap update Steam tanpa perlu update aplikasi",
-    "Perbaikan tampilan Pengaturan: hapus tombol yang sudah tidak berfungsi"
+    "Perbaikan penting: game bisa di-download walau aplikasi Techstation ditutup (sebelumnya error No Connection)",
+    "Loader otomatis ambil kode manifest lewat server Techstation, tahan walau sumber luar down (cache)",
+    "Folder game (.lua) & manifest dibuat otomatis saat Plugin System aktif"
   ],
   "minVersion": "1.0.0",
   "mandatory": true
