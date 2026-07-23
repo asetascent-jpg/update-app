@@ -1,14 +1,15 @@
 {
-  "version": "5.5.8",
-  "releaseDate": "2026-07-21",
-  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.5.8/Techstation-App-Setup-5.5.8.exe",
-  "webDownloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.5.8/Techstation-App-5.5.8.zip",
-  "sha256": "4d4f723025df036bd4fa593a987545c2e628a50e14f06874f4c438b447b43f36",
-  "size": 131829823,
+  "version": "5.6.0",
+  "releaseDate": "2026-07-23",
+  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.6.0/Techstation-App-Setup-5.6.0.exe",
+  "webDownloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.6.0/Techstation-App-5.6.0.zip",
+  "sha256": "52b07ee0401abe89d2ad41e398b83437760c13bdc68c9632b662f20738b7ddbb",
+  "size": 124085778,
   "changelog": [
-    "Perbaikan: gagal aktifkan Plugin System pertama kali (loader tidak ke-download karena firewall/antivirus)",
-    "Loader sekarang di-download dari GitHub (tahan firewall) + cadangan bundel di aplikasi",
-    "Aktifkan Plugin System langsung jalan tanpa error"
+    "Game Depot (dulu DepotDownloader): download game 1 klik (unduh, pasang File Fixed, daftar ke Steam)",
+    "Pembeli game satuan otomatis bisa unduh + dapat File Fixed lewat Game Depot",
+    "Techstation kini tetap aktif di tray saat di-close + ikut menyala saat PC dinyalakan (bisa dimatikan di Pengaturan)",
+    "Notice + estimasi waktu saat download game"
   ],
   "minVersion": "1.0.0",
   "mandatory": true
