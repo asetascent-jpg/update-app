@@ -1,17 +1,15 @@
 {
-  "version": "5.6.1",
-  "releaseDate": "2026-07-23",
-  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.6.1/Techstation-App-Setup-5.6.1.exe",
-  "webDownloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.6.1/Techstation-App-5.6.1.zip",
-  "sha256": "a87768c7d70be368ee3a40cef4be44db943b32e1454a70b74518ca7ee629c0f0",
-  "size": 131841136,
+  "version": "5.6.2",
+  "releaseDate": "2026-07-29",
+  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.6.2/Techstation-App-Setup-5.6.2.exe",
+  "webDownloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.6.2/Techstation-App-5.6.2.zip",
+  "sha256": "fbc4cfe4eec1803d72ea43e00fb22ff8a3758b0e6d38988916370abd551af0ad",
+  "size": 131834952,
   "changelog": [
-    "Fix download game: resume lanjut (anti mulai dari 0) + Steam ditutup rapi (graceful)",
-    "Loader auto-update: fix popup 'Unsupported Steam Version' saat Steam update",
-    "Info versi loader + notif update di Pengaturan",
-    "Fix Bersihkan Plugin System: hapus tuntas semua file loader",
-    "Game Depot: download game 1 klik + File Fixed otomatis",
-    "Techstation aktif di tray + nyala saat PC dihidupkan (bisa dimatikan di Pengaturan)"
+    "Plugin System sekarang 2 mode: Basic (loader Techstation, mandiri + resume download) dan Advance (loader alternatif)",
+    "Pilih mode di Pengaturan; ganti mode otomatis bersihin loader lama",
+    "Mode Advance ada peringatan: matikan Windows Defender sementara, dan game bisa 'purchase' saat maintenance",
+    "Perapian aplikasi dan peningkatan stabilitas"
   ],
   "minVersion": "1.0.0",
   "mandatory": true
