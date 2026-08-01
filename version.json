@@ -1,14 +1,16 @@
 {
-  "version": "5.6.3",
-  "releaseDate": "2026-07-29",
-  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.6.3/Techstation-App-Setup-5.6.3.exe",
-  "webDownloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.6.3/Techstation-App-5.6.3.zip",
-  "sha256": "9f88e6100cf116588c5cf055a538fc77247121123d9c476a478cbb3eac425f71",
-  "size": 131845882,
+  "version": "5.6.4",
+  "releaseDate": "2026-08-01",
+  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.6.4/Techstation-App-Setup-5.6.4.exe",
+  "webDownloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.6.4/Techstation-App-5.6.4.zip",
+  "sha256": "6401c64d0686b64efcbabb20042a3e963caecbdaac89b650fee34d80504d6aae",
+  "size": 124106359,
   "changelog": [
-    "Fix penting: file plugin (.lua) ditulis ke config/stplug-in + config/techstation-lua lagi",
-    "Mode Basic baca techstation-lua, mode Advance baca stplug-in \u2014 sebelumnya kosong (game bisa gak kebaca)",
-    "Plugin System 2 mode: Basic (loader Techstation, mandiri + resume) + Advance (loader alternatif)"
+    "Aplikasi jauh lebih ringan. Pemakaian CPU saat didiamkan turun sekitar 8 kali lipat",
+    "Game rilis baru bisa diunduh lagi di Game Depot (perbaikan error 401 saat mengambil manifest)",
+    "Gaming Services bisa dipasang sekali klik di Pengaturan > Game Runtimes, untuk game Microsoft/Xbox yang menolak jalan",
+    "Ganti mode Plugin System tidak lagi membuat daftar game hilang dan harus ditambahkan ulang",
+    "Nama menu disegarkan: My Game, Catalog, dan Sharing Account"
   ],
   "minVersion": "1.0.0",
   "mandatory": true
