@@ -1,14 +1,14 @@
 {
-  "version": "5.6.5",
-  "releaseDate": "2026-08-02",
-  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.6.5/Techstation-App-Setup-5.6.5.exe",
-  "webDownloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.6.5/Techstation-App-5.6.5.zip",
-  "sha256": "59c18ab46f08267c57d46dec0b2dae7304941fa529382fd1e796c272bb37ce87",
-  "size": 131837234,
+  "version": "5.6.6",
+  "releaseDate": "2026-08-03",
+  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.6.6/Techstation-App-Setup-5.6.6.exe",
+  "webDownloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.6.6/Techstation-App-5.6.6.zip",
+  "sha256": "1e53a779977186c7b25653574113dd3d3fe47267aec270d76b4a77ceebbda16f",
+  "size": 131847968,
   "changelog": [
-    "Loader kini terikat lisensi Techstation \u2014 hanya aktif untuk pengguna berlisensi valid",
-    "Update otomatis + aman: buka app setelah update, loader ikut ke-update sendiri (game tetap jalan)",
-    "Perbaikan performa besar (CPU idle turun) + fix ganti mode plugin + pemasang Gaming Services 1-klik"
+    "Fix penting: download game 'No Internet Connection' teratasi (kode manifest selalu fresh)",
+    "Loader baru stabil: resume download works (lanjut setelah tutup/restart, gak mulai dari 0)",
+    "Update otomatis \u2014 buka app, loader ikut ke-update sendiri, download & resume lancar"
   ],
   "minVersion": "1.0.0",
   "mandatory": true
