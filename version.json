@@ -1,15 +1,16 @@
 {
-  "version": "5.6.6",
-  "releaseDate": "2026-08-03",
-  "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.6.6/Techstation-App-Setup-5.6.6.exe",
-  "webDownloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.6.6/Techstation-App-5.6.6.zip",
-  "sha256": "1e53a779977186c7b25653574113dd3d3fe47267aec270d76b4a77ceebbda16f",
-  "size": 131847968,
-  "changelog": [
-    "Fix penting: download game 'No Internet Connection' teratasi (kode manifest selalu fresh)",
-    "Loader baru stabil: resume download works (lanjut setelah tutup/restart, gak mulai dari 0)",
-    "Update otomatis \u2014 buka app, loader ikut ke-update sendiri, download & resume lancar"
-  ],
-  "minVersion": "1.0.0",
-  "mandatory": true
+    "version": "5.6.7",
+    "releaseDate": "2026-08-20",
+    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.6.7/Techstation-App-Setup-5.6.7.exe",
+    "webDownloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.6.7/Techstation-App-5.6.7.zip",
+    "sha256": "60684f7472a90d1fe087b81dc1862e9fa3828d651cd206560693a9429ad01752",
+    "size": 124113453,
+    "changelog": [
+        "Aplikasi tidak lagi ikut nyala sendiri tiap Windows dinyalakan",
+        "Tampilan baru jadi bawaan, yang lama tetap ada di Pengaturan > Tampilan > Legacy",
+        "Warna aksen bisa dipilih sendiri di Pengaturan > Tampilan",
+        "Aplikasi sekarang benar-benar tahu kapan Steam sedang jalan"
+    ],
+    "minVersion": "1.0.0",
+    "mandatory": true
 }
