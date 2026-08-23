@@ -264,5 +264,28 @@
         "manifestId": "5087715316087945828"
       }
     ]
+  },
+  {
+    "appId": "3751950",
+    "name": "Assassin's Creed Black Flag Resynced",
+    "build": "24424450",
+    "date": "2026-08-04",
+    "depots": [
+      {
+        "appId": "3751950",
+        "depotId": "3751951",
+        "manifestId": "4397710407098141927"
+      },
+      {
+        "appId": "1716750",
+        "depotId": "1716751",
+        "manifestId": "8936186649444731600"
+      },
+      {
+        "appId": "570",
+        "depotId": "228989",
+        "manifestId": "5753583882400741046"
+      }
+    ]
   }
 ]
