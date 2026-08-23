@@ -190,5 +190,79 @@
         "manifestId": "5087715316087945828"
       }
     ]
+  },
+  {
+    "appId": "1941540",
+    "name": "Mafia: The Old Country",
+    "build": "20951841",
+    "date": "2025-12-04",
+    "depots": [
+      {
+        "appId": "1941540",
+        "depotId": "1941541",
+        "manifestId": "3121778726057603637"
+      },
+      {
+        "appId": "10",
+        "depotId": "228988",
+        "manifestId": "6645201662696499616"
+      },
+      {
+        "appId": "440",
+        "depotId": "228990",
+        "manifestId": "5087715316087945828"
+      },
+      {
+        "appId": "2720",
+        "depotId": "229002",
+        "manifestId": "7260605429366465749"
+      }
+    ]
+  },
+  {
+    "appId": "3321460",
+    "name": "Crimson Desert",
+    "build": "24236208",
+    "date": "2026-07-16",
+    "depots": [
+      {
+        "appId": "3321460",
+        "depotId": "3321461",
+        "manifestId": "3181503578355214830"
+      },
+      {
+        "appId": "3321460",
+        "depotId": "3321469",
+        "manifestId": "5243858815779749214"
+      },
+      {
+        "appId": "570",
+        "depotId": "228989",
+        "manifestId": "5753583882400741046"
+      }
+    ]
+  },
+  {
+    "appId": "2680010",
+    "name": "The First Berserker: Khazan",
+    "build": "22579715",
+    "date": "2026-04-01",
+    "depots": [
+      {
+        "appId": "2680010",
+        "depotId": "2680011",
+        "manifestId": "6765731590953570327"
+      },
+      {
+        "appId": "570",
+        "depotId": "228989",
+        "manifestId": "3514306556860204959"
+      },
+      {
+        "appId": "440",
+        "depotId": "228990",
+        "manifestId": "5087715316087945828"
+      }
+    ]
   }
 ]
