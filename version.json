@@ -1,15 +1,15 @@
 {
-    "version": "5.6.8",
-    "releaseDate": "2026-08-24",
-    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.6.8/Techstation-App-Setup-5.6.8.exe",
-    "webDownloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.6.8/Techstation-App-5.6.8.zip",
-    "sha256": "b74b88b5020583592a04b9342d863d237c3ddde583408b87627d7d475cc1910a",
-    "size": 124910593,
+    "version": "5.7.0",
+    "releaseDate": "2026-09-13",
+    "downloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.7.0/Techstation-App-Setup-5.7.0.exe",
+    "webDownloadUrl": "https://github.com/asetascent-jpg/update-app/releases/download/v5.7.0/Techstation-App-5.7.0.zip",
+    "sha256": "f425408226698ba55717250ad9065b03633c496259004d98bc7ae7bf0f962366",
+    "size": 124920294,
     "changelog": [
-        "File fix yang dulu gagal dipasang kini terpasang normal (15 game, termasuk Black Myth Wukong & DOOM The Dark Ages)",
-        "Tombol Cek Kesehatan di Pengaturan: perbaiki sendiri saat game tampil sebagai Purchase",
-        "Tanda BARU di File Fixed dan Game Depot untuk yang belum pernah kamu lihat",
-        "Kotak cari di menu MOD, urutannya selalu yang terbaru di atas"
+        "Game Depot: game katalog bisa diunduh lagi. Sumber manifest dipindah ke jalur baru yang stabil, jadi unduhan tak lagi gagal di tengah.",
+        "File Fixed Persona 3 Reload otomatis masuk ke folder yang benar, tak perlu pindah manual lagi.",
+        "DLC Unlocker tidak lagi berhenti merespons saat dibuka, walau game terpasang banyak.",
+        "Save Manager: backup save kini benar-benar tersimpan dan mudah ditemukan di folder Documents."
     ],
     "minVersion": "1.0.0",
     "mandatory": true
