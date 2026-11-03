@@ -720,5 +720,28 @@
         "manifestId": "5087715316087945828"
       }
     ]
+  },
+  {
+    "appId": "2751000",
+    "name": "Prince of Persia The Lost Crown",
+    "build": "17528300",
+    "date": "2025-03-10",
+    "depots": [
+      {
+        "appId": "2751000",
+        "depotId": "2751001",
+        "manifestId": "4409492711677428505"
+      },
+      {
+        "appId": "10",
+        "depotId": "228988",
+        "manifestId": "6645201662696499616"
+      },
+      {
+        "appId": "570",
+        "depotId": "228989",
+        "manifestId": "550968249685141759"
+      }
+    ]
   }
 ]
