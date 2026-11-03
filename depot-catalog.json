@@ -588,5 +588,33 @@
         "manifestId": "5087715316087945828"
       }
     ]
+  },
+  {
+    "appId": "2928600",
+    "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+    "build": "24561262",
+    "date": "2026-08-18",
+    "depots": [
+      {
+        "appId": "2928600",
+        "depotId": "2928601",
+        "manifestId": "8081071784331207732"
+      },
+      {
+        "appId": "2928600",
+        "depotId": "3653840",
+        "manifestId": "5802061408931620269"
+      },
+      {
+        "appId": "570",
+        "depotId": "228989",
+        "manifestId": "5753583882400741046"
+      },
+      {
+        "appId": "440",
+        "depotId": "228990",
+        "manifestId": "5087715316087945828"
+      }
+    ]
   }
 ]
