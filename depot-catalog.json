@@ -616,5 +616,28 @@
         "manifestId": "5087715316087945828"
       }
     ]
+  },
+  {
+    "appId": "3483510",
+    "name": "The Adventures of Elliot: The Millennium Tales",
+    "build": "24232671",
+    "date": "2026-07-24",
+    "depots": [
+      {
+        "appId": "3483510",
+        "depotId": "3483511",
+        "manifestId": "2042765930477868769"
+      },
+      {
+        "appId": "570",
+        "depotId": "228989",
+        "manifestId": "5753583882400741046"
+      },
+      {
+        "appId": "440",
+        "depotId": "228990",
+        "manifestId": "5087715316087945828"
+      }
+    ]
   }
 ]
