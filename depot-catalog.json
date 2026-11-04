@@ -896,5 +896,23 @@
         "manifestId": "1829726630299308803"
       }
     ]
+  },
+  {
+    "appId": "1222730",
+    "name": "STAR WARS™: Squadrons",
+    "build": "8101433",
+    "date": "2022-02-10",
+    "depots": [
+      {
+        "appId": "1222730",
+        "depotId": "1222731",
+        "manifestId": "8696728230826026282"
+      },
+      {
+        "appId": "10",
+        "depotId": "228988",
+        "manifestId": "8754764360237113396"
+      }
+    ]
   }
 ]
