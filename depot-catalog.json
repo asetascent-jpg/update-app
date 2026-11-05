@@ -914,5 +914,53 @@
         "manifestId": "8754764360237113396"
       }
     ]
+  },
+  {
+    "appId": "1413480",
+    "name": "Shin Megami Tensei III Nocturne HD Remaster",
+    "build": "20657000",
+    "date": "2025-11-04",
+    "depots": [
+      {
+        "appId": "1413480",
+        "depotId": "1413481",
+        "manifestId": "5372423919211280951"
+      },
+      {
+        "appId": "1413480",
+        "depotId": "1503720",
+        "manifestId": "15720870315723825"
+      },
+      {
+        "appId": "1413480",
+        "depotId": "1502940",
+        "manifestId": "3462989592388237728"
+      },
+      {
+        "appId": "1413480",
+        "depotId": "1502000",
+        "manifestId": "6295352110361622707"
+      },
+      {
+        "appId": "1413480",
+        "depotId": "1497870",
+        "manifestId": "11017624528232689"
+      },
+      {
+        "appId": "1413480",
+        "depotId": "1527660",
+        "manifestId": "21560568377367671"
+      },
+      {
+        "appId": "1413480",
+        "depotId": "1413482",
+        "manifestId": "4154341790232231881"
+      },
+      {
+        "appId": "1413480",
+        "depotId": "1497871",
+        "manifestId": "3916341071174485265"
+      }
+    ]
   }
 ]
