@@ -223,27 +223,13 @@
   {
     "appId": "3321460",
     "name": "Crimson Desert Enhanced",
-    "date": "2026-11-13",
+    "build": "24236217",
+    "date": "2026-11-24",
     "depots": [
       {
         "appId": "3321460",
         "depotId": "3321461",
-        "manifestId": "532620525636668883"
-      },
-      {
-        "appId": "3321460",
-        "depotId": "3321469",
-        "manifestId": "5243858815779749214"
-      },
-      {
-        "appId": "3321460",
-        "depotId": "5001841",
-        "manifestId": "6073443534788170008"
-      },
-      {
-        "appId": "570",
-        "depotId": "228989",
-        "manifestId": "5753583882400741046"
+        "manifestId": "3181503578355214830"
       }
     ]
   },
